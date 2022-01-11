@@ -9,9 +9,9 @@ This tool used for cracking hashes, Especially users shadow hashes.
 - type-6 --- is SHA-512.
 - 
 ## Installation
-'''
+```
 git clone https://github.com/Kod-Dot/Hash-Cracker/
 cd Hash-Cracker/
 chmod +X hash-cracker.sh
 ./hash-cracker.sh
-'''
+```
