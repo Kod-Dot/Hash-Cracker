@@ -12,6 +12,6 @@ This tool used for cracking hashes, Especially users shadow hashes.
 ```
 git clone https://github.com/Kod-Dot/Hash-Cracker/
 cd Hash-Cracker/
-chmod +X hash-cracker.sh
-./hash-cracker.sh
+chmod +X hashcracker.sh
+./hashcracker.sh
 ```
