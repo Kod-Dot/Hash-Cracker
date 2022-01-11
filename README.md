@@ -7,6 +7,7 @@ This tool used for cracking hashes, Especially users shadow hashes.
 - Type-4 --- is Blowfish.
 - Type-5 --- is SHA-256.
 - Type-6 --- is SHA-512. 
+
 ## Installation
 ```
 git clone https://github.com/Kod-Dot/Hash-Cracker/
